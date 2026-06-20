@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FLASH-UI Prompt Directory</title>
+  <link rel="stylesheet" href="./flash-ui-prompts.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">FLASH-UI Prompt Directory</p>
+        <h1>Search the prompt library</h1>
+        <p class="lede">A lightweight browser for the structured FLASH-UI prompt bank.</p>
+      </div>
+      <div class="hero-stats">
+        <div><span id="totalCount">305</span><small>Prompts</small></div>
+        <div><span id="groupCount">0</span><small>Groups</small></div>
+      </div>
+    </header>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search names, hooks, CTAs, prompts..." />
+      <select id="groupFilter"><option value="">All groups</option></select>
+      <select id="categoryFilter"><option value="">All categories</option></select>
+      <select id="brandFilter"><option value="">All brands</option></select>
+      <select id="styleFilter"><option value="">All visual styles</option></select>
+    </section>
+    <section id="resultsMeta" class="results-meta"></section>
+    <section id="cards" class="cards"></section>
+    <template id="cardTemplate">
+      <article class="card">
+        <div class="card-top">
+          <h2></h2>
+          <button class="copy-btn">Copy prompt</button>
+        </div>
+        <dl></dl>
+        <button class="toggle-btn">View full prompt</button>
+        <div class="prompt" hidden></div>
+      </article>
+    </template>
+  </main>
+  <script src="./flash-ui-prompts.js"></script>
+</body>
+</html>

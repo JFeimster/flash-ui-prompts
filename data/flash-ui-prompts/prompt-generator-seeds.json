@@ -1,0 +1,1131 @@
+{
+  "hooks": [],
+  "primary_ctas": [
+    {
+      "value": "Compare Funding Options",
+      "count": 2
+    },
+    {
+      "value": "Analyze This Acquisition",
+      "count": 1
+    },
+    {
+      "value": "Apply to Become a Partner",
+      "count": 1
+    },
+    {
+      "value": "Audit My Workflow",
+      "count": 1
+    },
+    {
+      "value": "Browse AI Agents",
+      "count": 1
+    },
+    {
+      "value": "Browse Broker Resources",
+      "count": 1
+    },
+    {
+      "value": "Browse Partner Resources",
+      "count": 1
+    },
+    {
+      "value": "Browse the Lab",
+      "count": 1
+    },
+    {
+      "value": "Browse the Shelf",
+      "count": 1
+    },
+    {
+      "value": "Browse the Showcase",
+      "count": 1
+    },
+    {
+      "value": "Calculate My Potential",
+      "count": 1
+    },
+    {
+      "value": "Calculate Recovery Time",
+      "count": 1
+    },
+    {
+      "value": "Check My Options",
+      "count": 1
+    },
+    {
+      "value": "Decode the Algorithm",
+      "count": 1
+    },
+    {
+      "value": "Download Media Kit",
+      "count": 1
+    },
+    {
+      "value": "Download the Checklist",
+      "count": 1
+    },
+    {
+      "value": "Enter the Archive",
+      "count": 1
+    },
+    {
+      "value": "Enter the Court",
+      "count": 1
+    },
+    {
+      "value": "Enter the Garage",
+      "count": 1
+    },
+    {
+      "value": "Enter the Hive Mind",
+      "count": 1
+    },
+    {
+      "value": "Enter the Lounge",
+      "count": 1
+    },
+    {
+      "value": "Enter the Meme Vault",
+      "count": 1
+    },
+    {
+      "value": "Enter the Studio",
+      "count": 1
+    },
+    {
+      "value": "Estimate My Payment",
+      "count": 1
+    },
+    {
+      "value": "Explore Creator Tools",
+      "count": 1
+    },
+    {
+      "value": "Explore DC Funding Options",
+      "count": 1
+    },
+    {
+      "value": "Explore Motorsports Careers",
+      "count": 1
+    },
+    {
+      "value": "Explore Sponsorship Angles",
+      "count": 1
+    },
+    {
+      "value": "Explore Startup Funding Options",
+      "count": 1
+    },
+    {
+      "value": "Explore the Ecosystem",
+      "count": 1
+    },
+    {
+      "value": "Explore the Tools",
+      "count": 1
+    },
+    {
+      "value": "Find a Funding Partner",
+      "count": 1
+    },
+    {
+      "value": "Find My Best Fit",
+      "count": 1
+    },
+    {
+      "value": "Find My Funding Lane",
+      "count": 1
+    },
+    {
+      "value": "Follow Hercules",
+      "count": 1
+    },
+    {
+      "value": "Follow the Flow",
+      "count": 1
+    },
+    {
+      "value": "Fund My Inventory",
+      "count": 1
+    },
+    {
+      "value": "Fund My Next Deal",
+      "count": 1
+    },
+    {
+      "value": "Generate My Funnel",
+      "count": 1
+    },
+    {
+      "value": "Generate My Posts",
+      "count": 1
+    },
+    {
+      "value": "Get Equipment Funding",
+      "count": 1
+    },
+    {
+      "value": "Get My Funding Score",
+      "count": 1
+    },
+    {
+      "value": "Join the Club",
+      "count": 1
+    },
+    {
+      "value": "Join the Hive",
+      "count": 1
+    },
+    {
+      "value": "Listen Now",
+      "count": 1
+    },
+    {
+      "value": "Listen to the Latest Episode",
+      "count": 1
+    },
+    {
+      "value": "Log Today’s Actions",
+      "count": 1
+    },
+    {
+      "value": "Observe the Species",
+      "count": 1
+    },
+    {
+      "value": "Open the Field Journal",
+      "count": 1
+    },
+    {
+      "value": "Open the Manual",
+      "count": 1
+    },
+    {
+      "value": "Open the Outreach Kit",
+      "count": 1
+    },
+    {
+      "value": "Play the Arcade",
+      "count": 1
+    },
+    {
+      "value": "Preview the Race",
+      "count": 1
+    },
+    {
+      "value": "Pull the Pin",
+      "count": 1
+    },
+    {
+      "value": "Read the Contrarian Notes",
+      "count": 1
+    },
+    {
+      "value": "Read the Digest",
+      "count": 1
+    },
+    {
+      "value": "Read the Dispatch",
+      "count": 1
+    },
+    {
+      "value": "Read the Essays",
+      "count": 1
+    },
+    {
+      "value": "Read the Founder Notes",
+      "count": 1
+    },
+    {
+      "value": "Read the Glitches",
+      "count": 1
+    },
+    {
+      "value": "Read the Gospel",
+      "count": 1
+    },
+    {
+      "value": "Read the Manifesto",
+      "count": 1
+    },
+    {
+      "value": "Read the Zine",
+      "count": 1
+    },
+    {
+      "value": "Refer a Client",
+      "count": 1
+    },
+    {
+      "value": "Reserve a Seat",
+      "count": 1
+    },
+    {
+      "value": "Review My Options",
+      "count": 1
+    },
+    {
+      "value": "Review Pipeline",
+      "count": 1
+    },
+    {
+      "value": "Sit by the Fire",
+      "count": 1
+    },
+    {
+      "value": "Start Building Business Credit",
+      "count": 1
+    },
+    {
+      "value": "Start the Honey Hustle",
+      "count": 1
+    },
+    {
+      "value": "Start the Training",
+      "count": 1
+    },
+    {
+      "value": "Start Your 7-Day Launch Plan",
+      "count": 1
+    },
+    {
+      "value": "Try the AI Funding Strategist",
+      "count": 1
+    },
+    {
+      "value": "Tune In",
+      "count": 1
+    },
+    {
+      "value": "Use the Calculators",
+      "count": 1
+    },
+    {
+      "value": "Use This Script",
+      "count": 1
+    },
+    {
+      "value": "View Program Details",
+      "count": 1
+    },
+    {
+      "value": "View the Slate",
+      "count": 1
+    },
+    {
+      "value": "Watch the Channel",
+      "count": 1
+    },
+    {
+      "value": "Watch the Featured Talk",
+      "count": 1
+    }
+  ],
+  "visual_styles": [
+    {
+      "value": "black",
+      "count": 2
+    },
+    {
+      "value": "brutalist",
+      "count": 2
+    },
+    {
+      "value": "Clean utility",
+      "count": 2
+    },
+    {
+      "value": "dark luxe",
+      "count": 2
+    },
+    {
+      "value": "red",
+      "count": 2
+    },
+    {
+      "value": "bento grid",
+      "count": 1
+    },
+    {
+      "value": "Board game night",
+      "count": 1
+    },
+    {
+      "value": "bold and clean",
+      "count": 1
+    },
+    {
+      "value": "bold borders",
+      "count": 1
+    },
+    {
+      "value": "Bold sales page",
+      "count": 1
+    },
+    {
+      "value": "brutalist meme wall",
+      "count": 1
+    },
+    {
+      "value": "Brutalist quote machine",
+      "count": 1
+    },
+    {
+      "value": "Builder tool",
+      "count": 1
+    },
+    {
+      "value": "Calm but irreverent",
+      "count": 1
+    },
+    {
+      "value": "campfire editorial",
+      "count": 1
+    },
+    {
+      "value": "card grid",
+      "count": 1
+    },
+    {
+      "value": "casino",
+      "count": 1
+    },
+    {
+      "value": "checkered",
+      "count": 1
+    },
+    {
+      "value": "Cinematic spiritual media page",
+      "count": 1
+    },
+    {
+      "value": "city-inspired",
+      "count": 1
+    },
+    {
+      "value": "clean cards",
+      "count": 1
+    },
+    {
+      "value": "Clean fintech cockpit",
+      "count": 1
+    },
+    {
+      "value": "Clean multi-step funnel",
+      "count": 1
+    },
+    {
+      "value": "Clean operating manual",
+      "count": 1
+    },
+    {
+      "value": "Clean professional media kit",
+      "count": 1
+    },
+    {
+      "value": "colorful bento",
+      "count": 1
+    },
+    {
+      "value": "contrarian founder",
+      "count": 1
+    },
+    {
+      "value": "cream",
+      "count": 1
+    },
+    {
+      "value": "Creator economy podcast",
+      "count": 1
+    },
+    {
+      "value": "Creator tool",
+      "count": 1
+    },
+    {
+      "value": "Cyber-philosophy",
+      "count": 1
+    },
+    {
+      "value": "Dark academia + punk marginalia",
+      "count": 1
+    },
+    {
+      "value": "Dark cinematic",
+      "count": 1
+    },
+    {
+      "value": "dark cinematic",
+      "count": 1
+    },
+    {
+      "value": "Dark fintech dashboard",
+      "count": 1
+    },
+    {
+      "value": "dark ink",
+      "count": 1
+    },
+    {
+      "value": "Dark luxe",
+      "count": 1
+    },
+    {
+      "value": "dark neon",
+      "count": 1
+    },
+    {
+      "value": "dark philosophical carnival",
+      "count": 1
+    },
+    {
+      "value": "Dark radio bunker",
+      "count": 1
+    },
+    {
+      "value": "Dark real estate finance",
+      "count": 1
+    },
+    {
+      "value": "Dark royal court",
+      "count": 1
+    },
+    {
+      "value": "Dark social-media occult dashboard",
+      "count": 1
+    },
+    {
+      "value": "Dark streaming platform",
+      "count": 1
+    },
+    {
+      "value": "Decision tree",
+      "count": 1
+    },
+    {
+      "value": "document vault aesthetic",
+      "count": 1
+    },
+    {
+      "value": "Editorial brutalist",
+      "count": 1
+    },
+    {
+      "value": "editorial cards",
+      "count": 1
+    },
+    {
+      "value": "Editorial comparison page",
+      "count": 1
+    },
+    {
+      "value": "Editorial fintech",
+      "count": 1
+    },
+    {
+      "value": "Educational fintech",
+      "count": 1
+    },
+    {
+      "value": "energetic cards",
+      "count": 1
+    },
+    {
+      "value": "experimental but polished",
+      "count": 1
+    },
+    {
+      "value": "Fast-cash mobile-first funnel",
+      "count": 1
+    },
+    {
+      "value": "Festival pitch deck",
+      "count": 1
+    },
+    {
+      "value": "field journal",
+      "count": 1
+    },
+    {
+      "value": "filterable cards",
+      "count": 1
+    },
+    {
+      "value": "filtered cards",
+      "count": 1
+    },
+    {
+      "value": "finance",
+      "count": 1
+    },
+    {
+      "value": "Fintech CRM cockpit",
+      "count": 1
+    },
+    {
+      "value": "Fintech marketplace",
+      "count": 1
+    },
+    {
+      "value": "fintech professional",
+      "count": 1
+    },
+    {
+      "value": "Fintech utility marketplace",
+      "count": 1
+    },
+    {
+      "value": "flowing UI",
+      "count": 1
+    },
+    {
+      "value": "Founder lab",
+      "count": 1
+    },
+    {
+      "value": "Founder OS",
+      "count": 1
+    },
+    {
+      "value": "Friendly local club",
+      "count": 1
+    },
+    {
+      "value": "Fun internet lab",
+      "count": 1
+    },
+    {
+      "value": "Funny heroic dog shrine",
+      "count": 1
+    },
+    {
+      "value": "Futuristic app marketplace",
+      "count": 1
+    },
+    {
+      "value": "Futuristic fintech AI",
+      "count": 1
+    },
+    {
+      "value": "Futuristic gallery",
+      "count": 1
+    },
+    {
+      "value": "Futuristic operations dashboard",
+      "count": 1
+    },
+    {
+      "value": "gamified",
+      "count": 1
+    },
+    {
+      "value": "Garage grit",
+      "count": 1
+    },
+    {
+      "value": "glitch aesthetic",
+      "count": 1
+    },
+    {
+      "value": "Grease",
+      "count": 1
+    },
+    {
+      "value": "grit",
+      "count": 1
+    },
+    {
+      "value": "high-trust",
+      "count": 1
+    },
+    {
+      "value": "honey gold",
+      "count": 1
+    }
+  ],
+  "visitor_psychology_angles": [
+    {
+      "value": "and community",
+      "count": 1
+    },
+    {
+      "value": "and life lessons",
+      "count": 1
+    },
+    {
+      "value": "and money",
+      "count": 1
+    },
+    {
+      "value": "but I hate pretentious academics",
+      "count": 1
+    },
+    {
+      "value": "but I still love building",
+      "count": 1
+    },
+    {
+      "value": "Can I buy this tiny business?",
+      "count": 1
+    },
+    {
+      "value": "Can I get a funnel without building from scratch?",
+      "count": 1
+    },
+    {
+      "value": "Can I learn this without getting buried?",
+      "count": 1
+    },
+    {
+      "value": "Can I qualify for funding or am I wasting time?",
+      "count": 1
+    },
+    {
+      "value": "Can I start an agency without reinventing everything?",
+      "count": 1
+    },
+    {
+      "value": "Can I trust this person with referrals?",
+      "count": 1
+    },
+    {
+      "value": "Can you automate the chaos in my business?",
+      "count": 1
+    },
+    {
+      "value": "clips without me doom-scrolling",
+      "count": 1
+    },
+    {
+      "value": "Could my brand partner with racing?",
+      "count": 1
+    },
+    {
+      "value": "Could this hobby become a little cash-flow machine?",
+      "count": 1
+    },
+    {
+      "value": "deals",
+      "count": 1
+    },
+    {
+      "value": "do I?",
+      "count": 1
+    },
+    {
+      "value": "Give me a savage quote to post",
+      "count": 1
+    },
+    {
+      "value": "Give me a useful tool before selling me",
+      "count": 1
+    },
+    {
+      "value": "Give me hard-earned lessons without motivational confetti",
+      "count": 1
+    },
+    {
+      "value": "Give me people to contact and what to say",
+      "count": 1
+    },
+    {
+      "value": "Give me the episodes and the thesis",
+      "count": 1
+    },
+    {
+      "value": "Help me understand content platforms without becoming a dancing hostage",
+      "count": 1
+    },
+    {
+      "value": "How long until this repair pays for itself?",
+      "count": 1
+    },
+    {
+      "value": "How much money can I actually make?",
+      "count": 1
+    },
+    {
+      "value": "Humans are ridiculous. Explain us",
+      "count": 1
+    },
+    {
+      "value": "I came for the dog",
+      "count": 1
+    },
+    {
+      "value": "I don’t know what to post",
+      "count": 1
+    },
+    {
+      "value": "I don’t qualify for anything",
+      "count": 1
+    },
+    {
+      "value": "I found a deal. I need capital",
+      "count": 1
+    },
+    {
+      "value": "I have too many interests and refuse to apologize",
+      "count": 1
+    },
+    {
+      "value": "I joined. Now tell me exactly what to do",
+      "count": 1
+    },
+    {
+      "value": "I like ideas",
+      "count": 1
+    },
+    {
+      "value": "I like machines",
+      "count": 1
+    },
+    {
+      "value": "I love racing but I’m not a mechanic",
+      "count": 1
+    },
+    {
+      "value": "I need equipment to make money",
+      "count": 1
+    },
+    {
+      "value": "I need money fast but don’t want banker nonsense",
+      "count": 1
+    },
+    {
+      "value": "I need sanity",
+      "count": 1
+    },
+    {
+      "value": "I need tools and strategy without judgment",
+      "count": 1
+    },
+    {
+      "value": "I want a tribe for weird smart people",
+      "count": 1
+    },
+    {
+      "value": "I want blunt truth from someone who’s seen some things",
+      "count": 1
+    },
+    {
+      "value": "I want calm but not corny",
+      "count": 1
+    },
+    {
+      "value": "I want clips",
+      "count": 1
+    },
+    {
+      "value": "I want depth without sterile academic nonsense",
+      "count": 1
+    },
+    {
+      "value": "I want guidance before talking to a human",
+      "count": 1
+    },
+    {
+      "value": "I want motorsports commentary with personality",
+      "count": 1
+    },
+    {
+      "value": "I want self-improvement without purity cult energy",
+      "count": 1
+    },
+    {
+      "value": "I want sharable chaos",
+      "count": 1
+    },
+    {
+      "value": "I want sharp ideas without party-line NPC scripts",
+      "count": 1
+    },
+    {
+      "value": "I want someone who understands local business",
+      "count": 1
+    },
+    {
+      "value": "I want tech strategy for adult creators without sleaze",
+      "count": 1
+    },
+    {
+      "value": "I want to learn and maybe join",
+      "count": 1
+    },
+    {
+      "value": "I want to learn beekeeping without fake influencer homestead cosplay",
+      "count": 1
+    },
+    {
+      "value": "I want to meet other weirdos with bees",
+      "count": 1
+    },
+    {
+      "value": "I want wisdom",
+      "count": 1
+    },
+    {
+      "value": "Inventory is eating my cash",
+      "count": 1
+    },
+    {
+      "value": "Is this program legit and worth my time?",
+      "count": 1
+    },
+    {
+      "value": "I’m confused. Make it simple",
+      "count": 1
+    },
+    {
+      "value": "I’m fascinated and disturbed by AI",
+      "count": 1
+    },
+    {
+      "value": "jokes",
+      "count": 1
+    },
+    {
+      "value": "Make politics feel less like swallowing glass",
+      "count": 1
+    },
+    {
+      "value": "My clients need capital. Can this make me look good?",
+      "count": 1
+    },
+    {
+      "value": "not another optimization tactic",
+      "count": 1
+    },
+    {
+      "value": "not hustle-bro dopamine sludge",
+      "count": 1
+    },
+    {
+      "value": "racing",
+      "count": 1
+    },
+    {
+      "value": "Show me my leads",
+      "count": 1
+    },
+    {
+      "value": "Show me the best talks",
+      "count": 1
+    },
+    {
+      "value": "Show me the right product for my situation",
+      "count": 1
+    },
+    {
+      "value": "Show me the shows",
+      "count": 1
+    },
+    {
+      "value": "Show me what AI can build",
+      "count": 1
+    },
+    {
+      "value": "Show me what to read and why it matters",
+      "count": 1
+    },
+    {
+      "value": "Startups are ridiculous",
+      "count": 1
+    },
+    {
+      "value": "takes",
+      "count": 1
+    },
+    {
+      "value": "Taxes punched me in the mouth. Now what?",
+      "count": 1
+    },
+    {
+      "value": "Tell me exactly what to fix",
+      "count": 1
+    },
+    {
+      "value": "Tell me what to do today",
+      "count": 1
+    },
+    {
+      "value": "Tell me what to say without sounding like a clown",
+      "count": 1
+    },
+    {
+      "value": "Tell me what to watch this weekend",
+      "count": 1
+    },
+    {
+      "value": "This partner looks credible and prepared",
+      "count": 1
+    },
+    {
+      "value": "This person says what I was thinking but funnier",
+      "count": 1
+    }
+  ],
+  "section_patterns": [
+    {
+      "value": "Hero section with bold headline and CTA | Partner launch checklist | Daily action tracker preview | Resource library cards",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Interactive calculator card | Inputs for funded amount, commission percentage, number of deals, and close rate | Result output card",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Multi-step scorecard interface | Progress bar | Questions about monthly revenue, time in business, business bank account, credit score, industry, funding goal",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Who this is for | 3-step process | Funding use cases",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Equipment types supported | Industries served | How equipment financing works",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Best referral partner categories | Outreach scripts | Email templates",
+      "count": 1
+    },
+    {
+      "value": "Hero section | AI assistant preview | Feature cards | Use cases",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Local business pain points | Funding options available | Best-fit industries",
+      "count": 1
+    },
+    {
+      "value": "Sidebar navigation | Credit readiness score | Entity foundation checklist | Banking setup status",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Search and filter bar | Funding product cards | Best for tags",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Who this is for | What partners get | How the model works",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Funding use cases | Investor types served | Deal readiness checklist",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Calculator inputs | Result cards | Pay cash vs finance comparison",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Opening script | Qualification questions | Pain point discovery",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Founder manifesto | Ventures section | Featured brands",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Problems solved | Services | Workflow examples",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Search bar | Category filter pills | Featured resources",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Calculator inputs | Total repayment output | Cost of capital output",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Calculator inputs | Monthly payment result | Total interest estimate",
+      "count": 1
+    },
+    {
+      "value": "Sidebar navigation | KPI cards | Deal pipeline kanban | New applicant list",
+      "count": 1
+    },
+    {
+      "value": "Partner bio hero | Best-fit funding lanes | Referral partner targets | Local market angles",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Why CPAs refer clients | Client funding pain points | Referral process",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Common tax season cash flow problems | What funding can and cannot solve | Funding readiness checklist",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Ecommerce funding use cases | Best-fit seller types | Inventory cash flow calculator preview",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Acquisition calculator | Inputs for purchase price, down payment, financing amount, expected cash flow, term, interest rate | DSCR output",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Search and filters | Broker profile cards | Specialty tags",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Interactive checklist | Required documents | Optional documents",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Prompt input mockup | Content category cards | Social post preview",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Course outcomes | Module breakdown | Who this is for",
+      "count": 1
+    },
+    {
+      "value": "Dashboard hero | Daily checklist | Progress ring | Streak counter",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Multi-step quiz | Progress bar | Questions for business type, revenue, time in business, credit score, bank account type, funding amount",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Program scorecard | Commission overview | Products offered",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Startup funding paths | Non-dilutive vs dilutive comparison | Founder readiness checklist",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Search bar | Resource category grid | Getting started checklist",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Search and filter bar | Calculator card grid | Featured tools",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Search and category filters | Agent card grid | Featured agents",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Featured projects | Tool categories | Live demos",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Live funnel preview | Feature cards | How it works",
+      "count": 1
+    },
+    {
+      "value": "Profile hero | Bio section | Funding specialties | Who they help",
+      "count": 1
+    },
+    {
+      "value": "Hero section | Interactive decision tree | Funding option comparison cards | Best-fit scenarios",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "collection": "Partner Dashboard Systems FLASH-UI Prompts",
+  "source_file": "FLASH-UI-Site-Ideas-&-Prompts.md",
+  "source_scope": "Batches 12-13: partner dashboard suites and dashboard variations",
+  "description": "FLASH-UI prompt ideas for partner dashboards, affiliate mission control, operational widgets, and low-friction static partner tooling.",
+  "count": 65,
+  "items": [
+    {
+      "id": "ai-muse-agency",
+      "name": "AI Muse Agency",
+      "flash_ui_prompt": "Concept:** AI-powered creator growth agency for adult creators  \n**Audience:** OnlyFans/Fansly creators, cam models, solo creators  \n**Purpose:** Position as “not management,” but creator systems, agents, automation, AI assistants, privacy, content planning, and fan workflow support.  \n**Visual style:** Neon luxury agency × cyber-glam operations lab\n\n```text\nDesign a static landing page for “AI Muse Agency,” an AI-powered creator operations agency for adult content creators.\n\nThis is not a traditional OnlyFans management agency. Position it as an AI systems, automation, content workflow, privacy, and creator growth studio that helps adult creators start, manage, and scale like business owners.\n\nVISUAL STYLE:\nCyber-glam agency site with black glass, ultraviolet gradients, hot pink neon, chrome cards, luxury editorial typography, AI dashboard previews, and seductive but professional creator-tech energy.\n\nSTRONG HOOK:\n“Not Management. Machinery.”\n\nHERO MESSAGE:\n“AI agents, workflows, content systems, privacy checklists, fan-response tools, and creator operations for adult creators who want to run the business behind the fantasy.”\n\nCTA:\n“Build My Creator System”\n\nSECTIONS:\n- Hero\n- Why traditional creator management is broken\n- AI systems offered:\n  - Content calendar agent\n  - Bio optimizer\n  - Privacy audit\n  - Fan message assistant\n  - Offer builder\n  - Revenue tracker\n  - Leak response checklist\n  - Platform risk scorecard\n- Creator workflow before/after\n- Packages\n- Case study placeholders\n- Application CTA\n- FAQ\n\nINTERACTIONS:\n- Package selector\n- “What do you need help with?” quiz\n- Dynamic recommended service package\n- Copyable creator ops audit summary\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 1,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-ai-agent-library",
+      "name": "Adult Creator AI Agent Library",
+      "flash_ui_prompt": "Concept:** Directory of AI agents for adult creators  \n**Audience:** creators, agencies, VAs, managers  \n**Purpose:** SEO + lead magnet + paid template/product library  \n**Visual style:** Dark glam app store × neon AI marketplace\n\n```text\nDesign a static “Adult Creator AI Agent Library” website.\n\nVISUAL STYLE:\nDark glam app store meets AI marketplace. Black background, neon pink, electric cyan, purple gradients, glowing agent cards, chrome tags, high-fashion SaaS interface.\n\nSTRONG HOOK:\n“AI Agents for Creators Who Don’t Have a Back Office.”\n\nHERO MESSAGE:\n“Browse AI assistants for adult creators: content planning, privacy, fan messages, bio optimization, offer creation, platform diversification, tax prep, branding, and workflow automation.”\n\nCTA:\n“Browse AI Agents”\n\nAGENT CATEGORIES:\n- Creator Launch Agents\n- Platform Growth Agents\n- Fan Engagement Agents\n- Privacy & Safety Agents\n- Content Planning Agents\n- Revenue & Tax Agents\n- Brand Kit Agents\n- Agency Ops Agents\n- AI Companion / Persona Agents\n- Newsletter & Media Agents\n\nSECTIONS:\n- Hero\n- Search/filter\n- Featured agents\n- Agent cards\n- Demo modal\n- Paid template CTA\n- Request custom agent CTA\n- Newsletter signup\n\nINTERACTIONS:\n- Filter by category, platform, difficulty, use case\n- Agent detail modal\n- Save favorite agents\n- Copy demo prompt button\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 2,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "gfe-creator-directory",
+      "name": "GFE Creator Directory",
+      "flash_ui_prompt": "Concept:** Directory for creators offering girlfriend-experience-style digital content/personas  \n**Audience:** fans seeking creator profiles, creators seeking niche positioning  \n**Purpose:** Niche discovery directory; keep it platform/content-based, not in-person services.  \n**Visual style:** Soft luxury dating app × creator marketplace\n\n```text\nDesign a static “GFE Creator Directory” for discovering adult creators with girlfriend-experience-inspired digital personas and subscription content.\n\nIMPORTANT:\nFrame this as a legal digital creator discovery site for adult subscription platforms, messaging personas, fan clubs, and creator profiles. Do not imply in-person sexual services, escorting, or illegal activity.\n\nVISUAL STYLE:\nSoft luxury dating app meets creator marketplace. Warm black, blush pink, cream, rose gold, soft glass cards, romantic typography, profile-first UX, high-end but intimate.\n\nSTRONG HOOK:\n“Find the Creator Whose Vibe Feels Personal.”\n\nHERO MESSAGE:\n“Browse digital-first adult creators by personality, content style, platform, communication vibe, aesthetic, and fan experience.”\n\nCTA:\n“Browse Creator Profiles”\n\nPROFILE CATEGORIES:\n- Sweetheart\n- Luxury Muse\n- Gamer GF\n- Alt GF\n- Bookish Crush\n- Gym Crush\n- Soft Domme Persona\n- Cosplay Crush\n- Mature Muse\n- Long-Distance Fantasy\n\nSECTIONS:\n- Hero\n- Profile filters\n- Featured creators\n- Creator cards\n- Vibe quiz\n- Platform links\n- Safety/disclaimer section\n- Creator submission CTA\n\nINTERACTIONS:\n- Filter by vibe, platform, aesthetic, content type\n- “Find my vibe” quiz\n- Save favorite profiles\n- Creator detail modal\n- Age-gate placeholder\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 3,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "sugar-muse-magazine",
+      "name": "Sugar Muse Magazine",
+      "flash_ui_prompt": "Concept:** Lifestyle/media site around luxury dating, soft-life, elegance, creator monetization, personal branding  \n**Audience:** adult creators, sugar dating-adjacent lifestyle readers, glam creators  \n**Purpose:** Traffic/media; keep legal and non-transactional.  \n**Visual style:** Champagne editorial × scandalous society magazine\n\n```text\nDesign a static lifestyle media site called “Sugar Muse Magazine.”\n\nIMPORTANT:\nPosition as a legal adult lifestyle, luxury dating, creator economy, fashion, confidence, boundaries, and personal branding publication. Do not frame as transactional sex or illegal arrangements.\n\nVISUAL STYLE:\nChampagne editorial meets scandalous society magazine. Ivory, black, champagne gold, cherry red, glossy magazine cards, high-fashion typography, gossip-column elegance.\n\nSTRONG HOOK:\n“Soft Life, Sharp Boundaries, Expensive Taste.”\n\nHERO MESSAGE:\n“Essays, guides, creator tools, style notes, dating intelligence, money conversations, and personal branding for grown women building their own orbit.”\n\nCTA:\n“Read the Magazine”\n\nSECTIONS:\n- Hero\n- Featured essays\n- Style and confidence\n- Dating boundaries\n- Creator monetization\n- Money and independence\n- Luxury profile features\n- Newsletter signup\n- Submission CTA\n\nINTERACTIONS:\n- Filter articles by category\n- Save articles\n- Random “soft life rule” generator\n- Newsletter signup block\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 4,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "kink-fetish-resource-atlas",
+      "name": "Kink & Fetish Resource Atlas",
+      "flash_ui_prompt": "Concept:** Educational directory for consensual adult kink resources  \n**Audience:** consenting adults, educators, creators, communities  \n**Purpose:** Searchable education hub + safety-first content  \n**Visual style:** Dark academic taboo library × velvet underground\n\n```text\nDesign a static “Kink & Fetish Resource Atlas” for consenting adults seeking educational resources, terminology, safety basics, community etiquette, creator directories, and beginner-friendly guides.\n\nVISUAL STYLE:\nDark academic taboo library meets velvet underground. Black, burgundy, parchment, brass, deep purple, candlelit cards, leather-bound book textures, elegant but edgy.\n\nSTRONG HOOK:\n“Curiosity Deserves Better Than Sketchy Search Results.”\n\nHERO MESSAGE:\n“A safety-first atlas of consensual adult kink topics, vocabulary, etiquette, boundaries, creator niches, and educational resources.”\n\nCTA:\n“Explore the Atlas”\n\nSECTIONS:\n- Hero\n- Topic directory\n- Beginner guides\n- Consent and boundaries\n- Safety checklist\n- Creator niche directory\n- Glossary\n- Community etiquette\n- FAQ\n\nINTERACTIONS:\n- Search glossary\n- Filter topics by beginner/intermediate/advanced\n- Save favorite resources\n- Random topic card\n- Safety checklist with localStorage\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 5,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-niche-finder",
+      "name": "Adult Niche Finder",
+      "flash_ui_prompt": "Concept:** Quiz that helps creators identify a viable niche/persona/content lane  \n**Audience:** new adult creators  \n**Purpose:** Viral lead magnet + creator onboarding  \n**Visual style:** Neon identity quiz × underground casting room\n\n```text\nDesign a static “Adult Niche Finder” quiz for new adult creators choosing a creator persona, content niche, audience angle, and platform strategy.\n\nVISUAL STYLE:\nNeon identity quiz meets underground casting room. Black, hot pink, electric blue, ultraviolet, spotlight effects, bold quiz cards, stage-door energy.\n\nSTRONG HOOK:\n“Find Your Creator Lane Before the Internet Names You.”\n\nHERO MESSAGE:\n“Answer a few questions about your personality, boundaries, aesthetic, comfort level, audience, and goals to discover potential adult creator niches.”\n\nCTA:\n“Find My Niche”\n\nRESULT TYPES:\n- Soft GFE Creator\n- Glam Luxury Muse\n- Alt/Goth Creator\n- Fitness Fantasy Creator\n- Cosplay Creator\n- Dominant Persona\n- Educational/Sensual Coach\n- Cam Personality\n- Anonymous Faceless Creator\n- Couple/Relationship Brand\n\nSECTIONS:\n- Hero\n- Multi-step quiz\n- Result card\n- Brand direction\n- Content pillar suggestions\n- Platform recommendations\n- Privacy checklist CTA\n- AI tools CTA\n\nINTERACTIONS:\n- Quiz logic\n- Result generation\n- Save result\n- Copy niche brief\n- Age-gate placeholder\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 6,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "faceless-creator-lab",
+      "name": "Faceless Creator Lab",
+      "flash_ui_prompt": "Concept:** Media/tool hub for creators who want anonymity  \n**Audience:** faceless adult creators, privacy-focused creators  \n**Purpose:** Massive pain point: privacy + monetization  \n**Visual style:** Redacted glam cyberpunk × anonymous creator lab\n\n```text\nDesign a static site called “Faceless Creator Lab” for adult creators who want to build a creator business while protecting their identity.\n\nVISUAL STYLE:\nRedacted glam cyberpunk. Matte black, blurred silhouettes, redacted strips, neon pink, icy blue, glitch overlays, privacy-first UI, mysterious but premium.\n\nSTRONG HOOK:\n“Build the Brand. Keep the Name.”\n\nHERO MESSAGE:\n“Guides, tools, checklists, and AI workflows for faceless adult creators who want privacy, safety, consistency, and monetization.”\n\nCTA:\n“Start the Faceless Setup”\n\nSECTIONS:\n- Hero\n- Faceless creator models\n- Privacy checklist\n- Content ideas without face reveal\n- Platform stack\n- Brand kit generator CTA\n- Voice/persona strategy\n- AI tools directory\n- Newsletter signup\n\nINTERACTIONS:\n- Faceless strategy quiz\n- Privacy checklist\n- Save setup plan\n- Copy content pillar plan\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 7,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-moodboard-generator",
+      "name": "Adult Creator Moodboard Generator",
+      "flash_ui_prompt": "Concept:** Fun visual identity generator for creators  \n**Audience:** creators, photographers, stylists  \n**Purpose:** Brand/visual planning tool  \n**Visual style:** Fashion editorial moodboard × neon persona studio\n\n```text\nDesign a static “Adult Creator Moodboard Generator” for creators building a visual identity, content vibe, profile aesthetic, and shoot direction.\n\nVISUAL STYLE:\nFashion editorial moodboard meets neon persona studio. Black, ivory, neon accents, image placeholders, swatch cards, typography cards, aesthetic tags, drag-style moodboard layout.\n\nSTRONG HOOK:\n“Build a Vibe Before You Build a Feed.”\n\nHERO MESSAGE:\n“Choose your persona, colors, energy, platform, and audience to generate a creator moodboard with visual direction, content pillars, profile copy, and shoot themes.”\n\nCTA:\n“Generate My Moodboard”\n\nAESTHETIC TYPES:\n- Luxury Lounge\n- Cyber Siren\n- Soft Romance\n- Dark Femme\n- Alt/Goth\n- Fitness Heat\n- Retro Pinup\n- Cosplay Fantasy\n- Anonymous Mystery\n- Sugar Glam\n\nSECTIONS:\n- Hero\n- Input form\n- Moodboard preview\n- Color palette\n- Typography style\n- Content theme cards\n- Bio/CTA copy\n- Saved moodboards\n\nINTERACTIONS:\n- Dynamic moodboard generation\n- Save moodboards\n- Copy brand direction\n- Palette preview cards\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 8,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "digital-domme-toolkit",
+      "name": "Digital Domme Toolkit",
+      "flash_ui_prompt": "Concept:** Business toolkit for dominant-persona creators  \n**Audience:** domme personas, fetish creators, premium messaging creators  \n**Purpose:** Boundaries, menu, scripts, brand, safety — legal digital content only  \n**Visual style:** Luxury command hierarchy × black latex UI without explicit imagery\n\n```text\nDesign a static “Digital Domme Toolkit” for legal adult creators with dominant personas who need business tools, boundaries, menus, scripts, profile copy, and fan workflow systems.\n\nIMPORTANT:\nKeep it professional, consent-focused, and digital-content oriented. No illegal services, coercion, or explicit imagery.\n\nVISUAL STYLE:\nLuxury command hierarchy. Gloss black, blood red, chrome, white, deep purple, sharp panels, authority-style typography, high-end club aesthetic.\n\nSTRONG HOOK:\n“Power Is a Brand System.”\n\nHERO MESSAGE:\n“Build your digital persona, boundaries, tribute menu, response scripts, platform profile, and fan workflow with clarity and control.”\n\nCTA:\n“Build My Toolkit”\n\nSECTIONS:\n- Hero\n- Persona builder\n- Boundary script generator\n- Fan menu builder\n- Profile bio optimizer\n- Safety and consent checklist\n- Offer structure\n- Platform links\n- FAQ\n\nINTERACTIONS:\n- Tone selector\n- Menu generator\n- Copy scripts\n- Save persona profile\n- Age-gate placeholder\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 9,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-persona-gallery",
+      "name": "Adult Creator Persona Gallery",
+      "flash_ui_prompt": "Concept:** Directory/gallery of archetypes creators can model  \n**Audience:** new creators, agencies, brand strategists  \n**Purpose:** Fun + useful positioning site  \n**Visual style:** Character select screen × glam casting wall\n\n```text\nDesign a static “Adult Creator Persona Gallery” for exploring creator archetypes, profile positioning, audience psychology, visual style, and monetization angles.\n\nVISUAL STYLE:\nCharacter select screen meets glam casting wall. Dark background, neon borders, avatar cards, genre tags, cinematic cards, arcade selection effects.\n\nSTRONG HOOK:\n“Pick the Persona. Build the Empire.”\n\nHERO MESSAGE:\n“Browse adult creator archetypes by vibe, audience, boundaries, platform fit, content energy, and monetization style.”\n\nCTA:\n“Browse Personas”\n\nPERSONA CARDS:\n- Glam Muse\n- Alt Crush\n- Digital Domme\n- Soft GFE\n- Fitness Fantasy\n- Cosplay Siren\n- Luxury Companion Persona\n- Faceless Mystery\n- Mature Mentor\n- Gamer Crush\n- Burlesque Starlet\n- Taboo Librarian\n\nSECTIONS:\n- Hero\n- Persona filter grid\n- Archetype detail modal\n- Audience psychology\n- Content ideas\n- Brand palette\n- Platform fit\n- Creator niche quiz CTA\n\nINTERACTIONS:\n- Filter by vibe and platform\n- Save personas\n- Persona detail modal\n- Random persona picker\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 10,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "spicy-link-in-bio-gallery",
+      "name": "Spicy Link-in-Bio Gallery",
+      "flash_ui_prompt": "Concept:** Showcase directory of high-converting creator link pages  \n**Audience:** creators looking for inspiration  \n**Purpose:** SEO + templates + agency lead gen  \n**Visual style:** Neon link vault × creator profile runway\n\n```text\nDesign a static “Spicy Link-in-Bio Gallery” showcasing adult creator link-in-bio layouts, CTA strategies, profile styles, and traffic-routing ideas.\n\nVISUAL STYLE:\nNeon link vault meets creator profile runway. Black glass, magenta glow, electric cyan buttons, chrome profile cards, mobile-first preview mockups.\n\nSTRONG HOOK:\n“Your Link Page Should Do More Than Sit There Looking Nervous.”\n\nHERO MESSAGE:\n“Explore creator link-in-bio examples, CTA layouts, platform routing ideas, email capture blocks, and profile styles for adult creators.”\n\nCTA:\n“Browse Layouts”\n\nSECTIONS:\n- Hero\n- Layout gallery\n- CTA strategy cards\n- Mobile mockups\n- Template categories\n- Before/after examples\n- Request custom link hub CTA\n- Newsletter signup\n\nINTERACTIONS:\n- Filter by creator style\n- Modal layout preview\n- Copy CTA examples\n- Save favorite layouts\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 11,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "fantasy-profile-copywriter",
+      "name": "Fantasy Profile Copywriter",
+      "flash_ui_prompt": "Concept:** Profile/bio copy generator by persona  \n**Audience:** creators building profiles  \n**Purpose:** Lead magnet/tool  \n**Visual style:** Noir writing studio × neon copy machine\n\n```text\nDesign a static “Fantasy Profile Copywriter” for adult creators who need bios, profile descriptions, welcome messages, CTAs, and platform-specific profile copy.\n\nVISUAL STYLE:\nNoir writing studio meets neon copy machine. Black, cream, hot pink, typewriter cards, glowing output panels, profile preview mockups.\n\nSTRONG HOOK:\n“Write the Bio That Sells the Fantasy Without Sounding Like Spam.”\n\nHERO MESSAGE:\n“Choose your persona, tone, boundaries, platform, and audience to generate polished creator profile copy.”\n\nCTA:\n“Write My Profile”\n\nINPUTS:\n- Creator name\n- Persona\n- Tone\n- Platform\n- Audience\n- Boundaries\n- CTA\n- Style words\n\nOUTPUTS:\n- Short bio\n- Long bio\n- Welcome message\n- Link-in-bio tagline\n- Fan club CTA\n- Boundary-friendly language\n\nINTERACTIONS:\n- Generate copy\n- Tone toggle\n- Save versions\n- Copy buttons\n- Profile preview card\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 12,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-subculture-directory",
+      "name": "Adult Creator Subculture Directory",
+      "flash_ui_prompt": "Concept:** Directory of legal adult creator niches/subcultures  \n**Audience:** fans, creators, researchers, marketers  \n**Purpose:** Discoverability + SEO  \n**Visual style:** Underground zine encyclopedia × app directory\n\n```text\nDesign a static “Adult Creator Subculture Directory” for browsing legal adult creator niches, aesthetics, communities, content styles, and persona categories.\n\nVISUAL STYLE:\nUnderground zine encyclopedia meets app directory. Black, off-white, acid green, hot pink, torn paper accents, bold tag cards, searchable taxonomy UI.\n\nSTRONG HOOK:\n“The Internet Has Niches You Didn’t Know Had Sub-Niches.”\n\nHERO MESSAGE:\n“Explore adult creator subcultures, aesthetics, communities, profile styles, content categories, and platform trends.”\n\nCTA:\n“Explore Subcultures”\n\nCATEGORIES:\n- GFE-style digital creators\n- Cosplay creators\n- Alt/goth creators\n- Fitness creators\n- Burlesque creators\n- Fetish fashion\n- Latex/glam aesthetics\n- Pinup/retro\n- Anonymous/faceless\n- Mature creators\n- Gamer creators\n- Soft romance creators\n\nSECTIONS:\n- Hero\n- Search/filter\n- Subculture cards\n- Trend tags\n- Creator examples placeholder\n- Related tools\n- Newsletter signup\n\nINTERACTIONS:\n- Filter by aesthetic, platform, audience, monetization\n- Save niches\n- Random niche button\n- Detail modal\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 13,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "city-after-dark-guide",
+      "name": "City After Dark Guide",
+      "flash_ui_prompt": "Concept:** Adult nightlife/travel guide  \n**Audience:** travelers, locals, nightlife fans, performers  \n**Purpose:** SEO + local directories + sponsorship  \n**Visual style:** Neon travel guide × velvet city map\n\n```text\nDesign a static “City After Dark Guide” for legal adult nightlife, burlesque shows, cabarets, lounges, strip clubs, creator events, speakeasies, and late-night entertainment.\n\nVISUAL STYLE:\nNeon travel guide meets velvet city map. Black, deep purple, neon pink, amber streetlight, map pins, city cards, glossy event panels.\n\nSTRONG HOOK:\n“Tour the City After the Respectable People Go Home.”\n\nHERO MESSAGE:\n“Discover adult nightlife, shows, lounges, creator events, cabaret, burlesque, late-night spots, and grown-up entertainment by city and vibe.”\n\nCTA:\n“Explore the City”\n\nSECTIONS:\n- Hero city selector\n- Venue directory\n- Event calendar\n- Neighborhood guide\n- “Choose your night” quiz\n- Safety and etiquette\n- Sponsored venue cards\n- Submit event CTA\n\nINTERACTIONS:\n- Filter by city, vibe, venue type, budget\n- Save venues\n- Event detail modal\n- Plan my night quiz\n- Age gate placeholder\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 14,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-collab-passport",
+      "name": "Adult Creator Collab Passport",
+      "flash_ui_prompt": "Concept:** Travel/collab planning profile for creators  \n**Audience:** traveling creators, photographers, studios, collab partners  \n**Purpose:** Legal collaboration discovery, no escorting  \n**Visual style:** Passport dossier × creator travel board\n\n```text\nDesign a static “Adult Creator Collab Passport” site for legal adult creators who travel and want to organize professional collaborations, shoots, studios, photographers, and creator meetups.\n\nIMPORTANT:\nPosition around legal content collaborations, studio shoots, creator meetups, photography, and professional production. Do not imply escorting, in-person sexual services, or illegal activity.\n\nVISUAL STYLE:\nPassport dossier meets creator travel board. Black, passport navy, stamp red, gold foil, cream cards, map pins, travel tags, creator production energy.\n\nSTRONG HOOK:\n“Travel Light. Collaborate Smart.”\n\nHERO MESSAGE:\n“Create a travel-ready creator profile with availability, cities, collab interests, boundaries, production needs, and contact links.”\n\nCTA:\n“Build My Collab Passport”\n\nSECTIONS:\n- Hero\n- Creator travel profile\n- Upcoming cities\n- Collaboration types\n- Studio/photographer needs\n- Boundaries and verification\n- Booking/contact CTA\n- Safety checklist\n- FAQ\n\nINTERACTIONS:\n- City availability cards\n- Collab type filters\n- Copy travel bio\n- Save itinerary with localStorage\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 15,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-fan-club-name-generator",
+      "name": "Adult Creator Fan Club Name Generator",
+      "flash_ui_prompt": "Concept:** Fun creator branding tool  \n**Audience:** creators building communities  \n**Purpose:** Viral generator  \n**Visual style:** Neon fandom machine × pop idol merch table\n\n```text\nDesign a static “Adult Creator Fan Club Name Generator.”\n\nVISUAL STYLE:\nNeon fandom machine meets pop idol merch table. Black, hot pink, cyan, glitter gradients, sticker badges, fan club card previews, playful but polished.\n\nSTRONG HOOK:\n“Give Your Fans a Name Before They Name Themselves Something Worse.”\n\nHERO MESSAGE:\n“Generate fan club names, subscriber community labels, VIP tier names, membership slogans, and merch-friendly phrases for adult creators.”\n\nCTA:\n“Name My Fan Club”\n\nINPUTS:\n- Creator name\n- Vibe\n- Persona\n- Audience style\n- Platform\n- Favorite word\n\nOUTPUTS:\n- Fan club names\n- VIP tier names\n- Taglines\n- Welcome message\n- Merch phrase ideas\n\nINTERACTIONS:\n- Random generator\n- Save favorites\n- Copy outputs\n- Share-card preview\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 16,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "kink-safe-event-directory",
+      "name": "Kink-Safe Event Directory",
+      "flash_ui_prompt": "Concept:** Directory for consenting adult education/social events  \n**Audience:** adults seeking workshops, munches, classes, nightlife  \n**Purpose:** Community + SEO + safety  \n**Visual style:** Velvet event calendar × underground consent club\n\n```text\nDesign a static “Kink-Safe Event Directory” for legal adult education events, consent workshops, nightlife events, social meetups, burlesque nights, and community gatherings.\n\nVISUAL STYLE:\nVelvet event calendar meets underground consent club. Black, burgundy, gold, deep purple, soft candlelight gradients, elegant event cards, safety-first UI.\n\nSTRONG HOOK:\n“Find the Event Without Wandering Into the Weird Basement of the Internet.”\n\nHERO MESSAGE:\n“Browse adult education, community events, workshops, shows, and social nights by city, vibe, experience level, and safety guidelines.”\n\nCTA:\n“Browse Events”\n\nSECTIONS:\n- Hero\n- Event filters\n- Event cards\n- Consent and etiquette section\n- Beginner-friendly events\n- Venue cards\n- Submit event CTA\n- Safety resources\n\nINTERACTIONS:\n- Filter by city, date, topic, beginner-friendly\n- Save events\n- Event detail modal\n- Add-to-calendar placeholder\n- Age gate placeholder\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 17,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-red-flag-radar",
+      "name": "Adult Creator Red Flag Radar",
+      "flash_ui_prompt": "Concept:** Safety screening tool for agencies, collabs, fans, service providers  \n**Audience:** creators  \n**Purpose:** Shareable safety tool  \n**Visual style:** Red-alert creator defense dashboard\n\n```text\nDesign a static “Adult Creator Red Flag Radar” tool for identifying sketchy agencies, unsafe collab requests, predatory managers, suspicious fans, and risky service providers.\n\nVISUAL STYLE:\nRed-alert creator defense dashboard. Matte black, danger red, warning yellow, icy blue, radar scans, threat cards, security console UI.\n\nSTRONG HOOK:\n“If It Feels Off, Score It Before You Ignore It.”\n\nHERO MESSAGE:\n“Run a quick red-flag check on agencies, collab requests, fan behavior, contracts, payment promises, and service providers.”\n\nCTA:\n“Run Red Flag Scan”\n\nCHECK CATEGORIES:\n- Agency promises\n- Contract pressure\n- Payment issues\n- Boundary violations\n- Verification gaps\n- Pushy behavior\n- Privacy risks\n- Too-good-to-be-true offers\n\nSECTIONS:\n- Hero\n- Scanner quiz\n- Risk score\n- Red flag checklist\n- Recommended next action\n- Safe response scripts\n- Resource links\n- Disclaimer\n\nINTERACTIONS:\n- JavaScript scoring\n- Risk result\n- Copy safe reply script\n- Save scan result\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 18,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "creator-taste-test",
+      "name": "Creator Taste Test",
+      "flash_ui_prompt": "Concept:** Fan discovery quiz that recommends creator archetypes, not explicit content  \n**Audience:** fans  \n**Purpose:** Engagement/traffic  \n**Visual style:** BuzzFeed quiz meets velvet speakeasy\n\n```text\nDesign a static “Creator Taste Test” quiz for adult fans discovering what style of legal adult creator profiles, personas, and digital fan experiences might fit their preferences.\n\nVISUAL STYLE:\nBuzzFeed quiz meets velvet speakeasy. Black, crimson, blush, gold, playful cards, personality quiz energy, tasteful adult discovery interface.\n\nSTRONG HOOK:\n“What’s Your Creator Type?”\n\nHERO MESSAGE:\n“Answer a few questions about vibe, personality, interaction style, aesthetic, and content mood to discover creator archetypes you may enjoy.”\n\nCTA:\n“Take the Taste Test”\n\nRESULT TYPES:\n- Soft Romance\n- Glam Luxury\n- Alt/Goth\n- Cosplay Fantasy\n- Fitness Crush\n- Digital Domme\n- Gamer Crush\n- Faceless Mystery\n- Mature Muse\n- Burlesque Starlet\n\nSECTIONS:\n- Hero\n- Quiz\n- Result card\n- Recommended profile categories\n- Save result\n- Directory CTA\n\nINTERACTIONS:\n- Quiz logic\n- Result share card\n- Save result\n- CTA into directory\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 19,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-newsletter-network",
+      "name": "Adult Creator Newsletter Network",
+      "flash_ui_prompt": "Concept:** Directory of creator newsletters and adult business media  \n**Audience:** creators, fans, agencies  \n**Purpose:** Traffic and owned-audience strategy  \n**Visual style:** Tabloid gloss × premium inbox club\n\n```text\nDesign a static “Adult Creator Newsletter Network” for discovering creator newsletters, adult industry newsletters, nightlife lists, platform updates, safety resources, and creator business publications.\n\nVISUAL STYLE:\nTabloid gloss meets premium inbox club. Black, white, hot pink, urgent red, glossy cards, newspaper grid, email-preview panels.\n\nSTRONG HOOK:\n“Own the Inbox Before the Platform Changes the Rules.”\n\nHERO MESSAGE:\n“Browse newsletters by creators, educators, nightlife brands, agencies, adult-tech tools, and industry commentators.”\n\nCTA:\n“Browse Newsletters”\n\nSECTIONS:\n- Hero\n- Newsletter directory\n- Categories\n- Featured newsletters\n- Submit newsletter CTA\n- Creator email strategy section\n- Sponsorship CTA\n\nINTERACTIONS:\n- Filter by topic, audience, frequency\n- Save newsletters\n- Detail modal\n- Random newsletter picker\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 20,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-persona-name-lab",
+      "name": "Adult Persona Name Lab",
+      "flash_ui_prompt": "Concept:** Stage name + persona name + niche name generator  \n**Audience:** creators and performers  \n**Purpose:** Fun/shareable  \n**Visual style:** Vegas neon oracle × character creator\n\n```text\nDesign a static “Adult Persona Name Lab” for generating stage names, creator names, persona names, VIP club names, and aesthetic identity ideas.\n\nVISUAL STYLE:\nVegas neon oracle meets character creator. Black, neon pink, purple smoke, chrome, slot-machine animation, tarot-card style result panels.\n\nSTRONG HOOK:\n“Name the Persona Before She Starts Posting.”\n\nHERO MESSAGE:\n“Generate adult creator names, stage names, persona taglines, social handles, profile bios, and visual identity ideas.”\n\nCTA:\n“Generate My Persona”\n\nINPUTS:\n- Vibe\n- First initial\n- Aesthetic\n- Platform\n- Personality\n- City\n- Favorite word\n\nOUTPUTS:\n- Name ideas\n- Tagline\n- Bio starter\n- Handle ideas\n- Visual direction\n\nINTERACTIONS:\n- Random generator\n- Save favorites\n- Copy names\n- Share card preview\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 21,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-content-prompt-deck",
+      "name": "Adult Creator Content Prompt Deck",
+      "flash_ui_prompt": "Concept:** Content idea generator  \n**Audience:** creators needing non-explicit content prompts, teasers, themes  \n**Purpose:** Sticky tool  \n**Visual style:** Tarot deck × creator content machine\n\n```text\nDesign a static “Adult Creator Content Prompt Deck” for generating legal, platform-safe content themes, teaser ideas, caption angles, shoot concepts, livestream themes, and fan engagement prompts.\n\nVISUAL STYLE:\nTarot deck meets creator content machine. Black, violet, gold, hot pink, mystical cards, shuffle animations, prompt deck UI.\n\nSTRONG HOOK:\n“Shuffle the Deck. Plan the Drop.”\n\nHERO MESSAGE:\n“Generate creator-safe content ideas by mood, platform, persona, promotion goal, and fan engagement style.”\n\nCTA:\n“Draw a Prompt”\n\nPROMPT CATEGORIES:\n- Teaser post\n- Caption idea\n- Livestream theme\n- Fan poll\n- VIP drop\n- Profile refresh\n- Behind the scenes\n- Soft promo\n- Boundary-friendly DM\n- Newsletter idea\n\nSECTIONS:\n- Hero\n- Prompt deck\n- Category selector\n- Generated prompt card\n- Saved prompts\n- Weekly content plan CTA\n\nINTERACTIONS:\n- Random card draw\n- Filter by platform/persona\n- Save prompts\n- Copy prompt\n- Generate weekly plan\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 22,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "fetish-fashion-lookbook",
+      "name": "Fetish Fashion Lookbook",
+      "flash_ui_prompt": "Concept:** Fashion/style directory around legal adult aesthetics  \n**Audience:** creators, stylists, photographers, fans  \n**Purpose:** SEO/affiliate/sponsor potential  \n**Visual style:** High-fashion latex editorial × dark runway catalog\n\n```text\nDesign a static “Fetish Fashion Lookbook” for adult fashion aesthetics, latex, leather-inspired styling, glam accessories, burlesque looks, nightlife outfits, creator wardrobe themes, and shoot styling ideas.\n\nVISUAL STYLE:\nHigh-fashion latex editorial meets dark runway catalog. Gloss black, chrome, ruby red, ivory, spotlight gradients, runway cards, editorial lookbook layout.\n\nSTRONG HOOK:\n“Style the Fantasy Before You Shoot It.”\n\nHERO MESSAGE:\n“Browse adult fashion aesthetics, outfit themes, shoot styling ideas, wardrobe categories, accessories, and creator lookbook inspiration.”\n\nCTA:\n“Browse Looks”\n\nSECTIONS:\n- Hero\n- Lookbook filters\n- Outfit cards\n- Creator shoot themes\n- Style moodboards\n- Affiliate/product placeholder\n- Photographer/stylist CTA\n- Submit look CTA\n\nINTERACTIONS:\n- Filter by aesthetic, color, shoot type\n- Save looks\n- Moodboard modal\n- Copy shoot styling brief\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 23,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-review-radar",
+      "name": "Adult Creator Review Radar",
+      "flash_ui_prompt": "Concept:** Review/ratings tracker for tools, platforms, agencies  \n**Audience:** creators evaluating adult-friendly platforms/services  \n**Purpose:** Directory + SEO + trust  \n**Visual style:** Rotten Tomatoes for creator tools × neon review board\n\n```text\nDesign a static “Adult Creator Review Radar” for reviewing adult-friendly tools, platforms, agencies, payment options, privacy tools, editing services, AI tools, and creator support services.\n\nVISUAL STYLE:\nRotten Tomatoes for creator tools meets neon review board. Black, white, hot pink, lime score badges, sharp review cards, comparison tables.\n\nSTRONG HOOK:\n“Find Out What Creators Actually Think Before You Sign Up.”\n\nHERO MESSAGE:\n“Browse reviews, scores, red flags, best-use cases, and creator notes for platforms, tools, agencies, and services.”\n\nCTA:\n“Browse Reviews”\n\nSECTIONS:\n- Hero\n- Review categories\n- Scorecards\n- Top-rated tools\n- Red flag list\n- Comparison table\n- Submit review CTA\n- Newsletter signup\n\nINTERACTIONS:\n- Filter by category and score\n- Save reviews\n- Compare tools\n- Detail modal\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 24,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "creator-confessional",
+      "name": "Creator Confessional",
+      "flash_ui_prompt": "Concept:** Anonymous stories/media site for adult creators  \n**Audience:** creators, fans, readers  \n**Purpose:** Viral storytelling + newsletter  \n**Visual style:** Anonymous diary × neon tabloid booth\n\n```text\nDesign a static media site called “Creator Confessional” for anonymous adult creator stories, lessons, mistakes, wins, red flags, business confessions, and behind-the-scenes essays.\n\nVISUAL STYLE:\nAnonymous diary meets neon tabloid booth. Black, paper cream, neon pink, confession-card layout, redacted author names, diary textures, scandalous but tasteful editorial style.\n\nSTRONG HOOK:\n“Anonymous Stories From the Business Behind the Fantasy.”\n\nHERO MESSAGE:\n“Read anonymous creator stories about money, boundaries, fans, platforms, agencies, burnout, privacy, and the strange economics of being desired online.”\n\nCTA:\n“Read Confessions”\n\nSECTIONS:\n- Hero\n- Featured confession\n- Story categories\n- Anonymous submission CTA\n- Creator lessons\n- Red flag stories\n- Newsletter signup\n\nINTERACTIONS:\n- Filter stories\n- Save stories\n- Random confession button\n- Submit story modal placeholder\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 25,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-creator-boundary-club",
+      "name": "Adult Creator Boundary Club",
+      "flash_ui_prompt": "Concept:** Media/tool community around boundaries and creator safety  \n**Audience:** creators, dancers, performers  \n**Purpose:** Trust-building brand  \n**Visual style:** Velvet self-defense club × elegant refusal machine\n\n```text\nDesign a static site called “Boundary Club” for adult creators who want scripts, tools, guides, and confidence around pricing, privacy, fan behavior, collaborations, and personal limits.\n\nVISUAL STYLE:\nVelvet self-defense club meets elegant refusal machine. Deep plum, black, rose gold, cream, soft but powerful typography, script cards, club-like membership vibe.\n\nSTRONG HOOK:\n“Hotter Boundaries. Better Business.”\n\nHERO MESSAGE:\n“Scripts, checklists, tools, and guides for adult creators who want to protect their energy, privacy, pricing, and professionalism.”\n\nCTA:\n“Enter Boundary Club”\n\nSECTIONS:\n- Hero\n- Boundary script library\n- Pricing boundary templates\n- Fan behavior red flags\n- Collab safety checklist\n- Burnout radar\n- Newsletter/community CTA\n\nINTERACTIONS:\n- Script generator\n- Filter by situation\n- Save scripts\n- Copy responses\n- Boundary quiz\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 26,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "creator-stage-door",
+      "name": "Creator Stage Door",
+      "flash_ui_prompt": "Concept:** Portfolio/directory for performers and creators  \n**Audience:** performers, clubs, photographers, agencies, fans  \n**Purpose:** Profile directory but elegant  \n**Visual style:** Theater stage door × creator profile index\n\n```text\nDesign a static “Creator Stage Door” profile directory for legal adult creators, burlesque performers, nightlife talent, dancers, models, hosts, and digital creators.\n\nVISUAL STYLE:\nTheater stage door meets creator profile index. Black, marquee gold, velvet red, cream cards, backstage pass tags, spotlight profile cards.\n\nSTRONG HOOK:\n“Meet the Talent Before the Curtain Opens.”\n\nHERO MESSAGE:\n“Browse creator and performer profiles by style, city, platform, booking availability, performance type, and professional links.”\n\nCTA:\n“Browse Profiles”\n\nSECTIONS:\n- Hero\n- Profile directory\n- City filters\n- Performance/style filters\n- Featured talent\n- Booking inquiry CTA\n- Creator submission CTA\n- Safety and professionalism note\n\nINTERACTIONS:\n- Filter profiles\n- Profile modal\n- Save profiles\n- Copy booking inquiry\n- Age gate placeholder\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 27,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "the-spicy-startup-studio",
+      "name": "The Spicy Startup Studio",
+      "flash_ui_prompt": "Concept:** Venture studio/media brand for adult creator tools  \n**Audience:** builders, adult-tech founders, creators  \n**Purpose:** Portfolio/media site for adult-tech products  \n**Visual style:** Startup lab × neon red-light district futurism\n\n```text\nDesign a static site for “The Spicy Startup Studio,” a venture studio building tools, directories, AI agents, and media brands for the legal adult creator economy.\n\nVISUAL STYLE:\nStartup lab meets neon red-light district futurism. Black, red neon, cyan, chrome, pitch-deck cards, startup portfolio grid, AI product mockups.\n\nSTRONG HOOK:\n“Building the Tools the Adult Internet Actually Needs.”\n\nHERO MESSAGE:\n“AI agents, creator dashboards, privacy tools, directories, media brands, and workflow systems for the adult creator economy.”\n\nCTA:\n“Explore the Studio”\n\nSECTIONS:\n- Hero\n- Portfolio of tools\n- Current builds\n- Problem spaces\n- Creator pain points\n- Partner/collab CTA\n- Newsletter\n- Request a build CTA\n\nINTERACTIONS:\n- Filter product ideas\n- Product modal\n- Vote on next build\n- Save ideas\n- Join waitlist placeholder\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 28,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "adult-industry-no-shame-resource-hub",
+      "name": "Adult Industry “No Shame” Resource Hub",
+      "flash_ui_prompt": "Concept:** Professional resource directory for taboo businesses  \n**Audience:** creators, clubs, sex workers operating legally, adult businesses  \n**Purpose:** Support hub  \n**Visual style:** Punk mutual-aid board × professional resource directory\n\n```text\nDesign a static “No Shame Resource Hub” for legal adult industry workers and businesses seeking resources for privacy, taxes, banking, safety, content platforms, mental health, marketing, legal basics, and professional services.\n\nVISUAL STYLE:\nPunk mutual-aid board meets professional resource directory. Black, white, red, hot pink, bold posters, resource cards, practical no-BS layout.\n\nSTRONG HOOK:\n“Resources for the Work Everybody Consumes and Pretends Not to Understand.”\n\nHERO MESSAGE:\n“Find tools, guides, service providers, safety resources, privacy checklists, platform support, and business basics for the legal adult industry.”\n\nCTA:\n“Browse Resources”\n\nSECTIONS:\n- Hero\n- Resource categories\n- Guides\n- Service provider directory\n- Emergency resources\n- Platform resources\n- Money/tax resources\n- Privacy/safety checklist\n- Submit resource CTA\n\nINTERACTIONS:\n- Filter resources\n- Save resources\n- Detail modal\n- Emergency quick links section\n\nGenerate static HTML/CSS/JS.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 29,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "niche-desire-index",
+      "name": "Niche Desire Index",
+      "flash_ui_prompt": "Concept:** Tasteful, non-explicit index of adult content niches and trends  \n**Audience:** creators, marketers, fans, researchers  \n**Purpose:** SEO + trend research + directory  \n**Visual style:** Data porn, but literally: trend terminal × glossy culture report\n\n```text\nDesign a static “Niche Desire Index” for tracking adult creator niches, aesthetics, persona trends, platform categories, audience preferences, and emerging content themes.\n\nVISUAL STYLE:\nTrend terminal meets glossy culture report. Black, neon magenta, acid green, white, chart cards, trend tags, editorial data visuals, culture-lab energy.\n\nSTRONG HOOK:\n“Find the Niche Before It Gets Flooded With Spam.”\n\nHERO MESSAGE:\n“Explore adult creator niches, audience trends, persona categories, platform movements, and underserved content angles.”\n\nCTA:\n“Browse the Index”\n\nSECTIONS:\n- Hero\n- Trending niches\n- Underserved niches\n- Creator persona tags\n- Platform fit matrix\n- Audience psychology cards\n- Risk/saturation score\n- Newsletter CTA\n\nINTERACTIONS:\n- Filter by platform, audience, aesthetic, saturation\n- Save niches\n- Random niche idea\n- Trend detail modal\n- Scorecard visualization\n\nGenerate static HTML/CSS/JS.\n```\n\n---\n\n## Best “BANGING but viable” picks to build first\n\nIf you want traffic, utility, and an actual chance to become a product/media asset, I’d prioritize:\n\n| Rank | Idea | Why it works |\n|---:|---|---|\n| 1 | **AI Muse Agency** | Clear service business with adult creator positioning |\n| 2 | **Adult Creator AI Agent Library** | Search + templates + lead gen + productization |\n| 3 | **Adult Niche Finder** | Viral quiz + creator onboarding funnel |\n| 4 | **Faceless Creator Lab** | Massive privacy pain point |\n| 5 | **GFE Creator Directory** | Strong niche discovery angle if kept digital/platform-based |\n| 6 | **Creator Persona Gallery** | Fun, shareable, useful for branding |\n| 7 | **Niche Desire Index** | SEO + trend intelligence + “adult creator research” positioning |\n| 8 | **Adult Creator Subculture Directory** | Searchable taxonomy = traffic bait |\n| 9 | **Creator Confessional** | Anonymous stories = engagement magnet |\n| 10 | **City After Dark Guide** | Local SEO + nightlife + sponsorship potential |\n\n## The real product ecosystem\n\nThis could become a whole adult-tech/media constellation:\n\n```text\nAdultCreators AI\n├── AI Muse Agency\n├── Adult Creator AI Agent Library\n├── Faceless Creator Lab\n├── Niche Desire Index\n├── Creator Persona Gallery\n├── Adult Niche Finder\n├── Creator Confessional\n├── No Shame Resource Hub\n├── City After Dark Guide\n└── Adult Creator Subculture Directory\n```\n\nThe white-space opportunity is **adult creator infrastructure with taste**.\n\nMost of the market is either:\n1. sleazy spam,\n2. exploitative “management,”\n3. ugly directories from 2007,\n4. shady traffic farms,\n5. or moralizing corporate tools that quietly hate their own users.\n\nSo the contrarian move is simple:\n\n```text\nMake it legal.\nMake it useful.\nMake it beautiful.\nMake it weird enough to spread.\nMake it professional enough to trust.\n```\n\nThat’s the lane.",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 30,
+      "source_date": "2026-05-15 05:01:38"
+    },
+    {
+      "id": "partner-mission-control-dashboard",
+      "name": "Partner Mission Control Dashboard",
+      "flash_ui_prompt": "Utility:** One front door for every partner.  \n**Data/Auth:** No-auth first with localStorage. Upgrade to Clerk + Supabase later.  \n**Visual Style:** Black-ops fintech command center, neon green status lights, tactical cards.\n\n```text\nCreate a static “Partner Mission Control Dashboard” for Moonshine Capital affiliates. Make it look like a black-ops fintech command center with matte black panels, neon green status lights, sharp tactical cards, and mission-control UI. Include sections for Daily 5 actions, application links, referral links, resource library, lead tracker, deal pipeline, training progress, and next best action. Use localStorage for saved tasks and checklist progress. Primary CTA: “Run Today’s Playbook.” Generate HTML, Tailwind CSS, and vanilla JavaScript.\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 31,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "daily-5-execution-dashboard",
+      "name": "Daily 5 Execution Dashboard",
+      "flash_ui_prompt": "Utility:** Turns affiliate action into a daily habit loop.  \n**Data/Auth:** No-auth/localStorage. Optional Google Sheets export later.  \n**Visual Style:** Gamified military fitness tracker × sales scoreboard.\n\n```text\nCreate a static “Daily 5 Execution Dashboard” for Moonshine Capital funding partners. Visual style: gamified military sales tracker with black background, electric lime progress bars, orange streak badges, and rugged operator typography. Track five daily actions: new contacts, follow-ups, referral partner outreach, content post, and application push. Add streak counter, weekly score, notes field, and localStorage saving. CTA: “Log Today’s Actions.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 32,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-pipeline-kanban",
+      "name": "Partner Pipeline Kanban",
+      "flash_ui_prompt": "Utility:** Simple CRM-lite for new affiliates.  \n**Data/Auth:** localStorage first; upgrade Supabase later.  \n**Visual Style:** Cyberpunk CRM board, draggable lead cards, danger/green stage tags.\n\n```text\nDesign a static “Partner Pipeline Kanban” for funding affiliates. Visual style: cyberpunk CRM board with dark graphite columns, hot green action tags, red warning badges, and glowing lead cards. Columns: New Lead, Contacted, Application Started, Bank Link Needed, Docs Needed, Submitted, Approved, Funded, Not Ready. Allow users to add lead cards, edit notes, change stage, and save to localStorage. CTA: “Add New Lead.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 33,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-link-vault",
+      "name": "Partner Link Vault",
+      "flash_ui_prompt": "Utility:** Stores every partner’s links in one place.  \n**Data/Auth:** No-auth static page; partner-specific cloned page.  \n**Visual Style:** Luxury link vault, black glass, chrome buttons, neon green CTAs.\n\n```text\nCreate a static “Partner Link Vault” for Moonshine Capital affiliates. Visual style: luxury black-glass link vault with chrome borders, neon green CTA buttons, and premium card stacks. Include sections for funding application link, booking link, readiness scorecard, document checklist, FAQ page, referral partner page, social links, and QR code placeholder. Add copy buttons for every link and localStorage favorite links. CTA: “Copy My Main Link.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 34,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "commission-war-room",
+      "name": "Commission War Room",
+      "flash_ui_prompt": "Utility:** Motivation + income math.  \n**Data/Auth:** No-auth calculator.  \n**Visual Style:** Wall Street trading desk × affiliate commission scoreboard.\n\n```text\nCreate a static “Commission War Room” dashboard for Moonshine Capital partners. Visual style: Wall Street trading terminal meets affiliate scoreboard with black background, acid green numbers, red risk warnings, and giant payout cards. Include calculators for deal amount, commission percentage, monthly deals, close rate, team referrals, and projected monthly/annual income. Add scenario saving in localStorage. CTA: “Run the Money Math.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 35,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "referral-partner-prospecting-dashboard",
+      "name": "Referral Partner Prospecting Dashboard",
+      "flash_ui_prompt": "Utility:** Helps partners target CPAs, bookkeepers, bankers, payroll companies, insurance agents.  \n**Data/Auth:** localStorage first. Optional Google Sheet import later.  \n**Visual Style:** Intelligence agency target board × B2B sales dashboard.\n\n```text\nCreate a static “Referral Partner Prospecting Dashboard” for Moonshine Capital affiliates. Visual style: intelligence agency target board with dark maps, profile cards, red string accents, green opportunity scores, and CRM-style columns. Let partners add referral prospects by category: CPA, bookkeeper, banker, payroll company, insurance agent, consultant, business coach. Include outreach status, next follow-up date, notes, and copyable email scripts. Save with localStorage. CTA: “Add Referral Target.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 36,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "cpa-outreach-command-center",
+      "name": "CPA Outreach Command Center",
+      "flash_ui_prompt": "Utility:** Vertical-specific referral partner dashboard.  \n**Data/Auth:** localStorage; Tally form for submissions.  \n**Visual Style:** Premium accounting ledger × fintech briefing room.\n\n```text\nCreate a static “CPA Outreach Command Center” for funding affiliates targeting accountants, CPAs, tax firms, and bookkeepers as referral partners. Visual style: premium accounting ledger meets fintech briefing room with cream panels, black ink, emerald highlights, and sharp referral cards. Include target list, pitch generator, client scenario cards, follow-up tracker, and referral partner email templates. Save progress locally. CTA: “Generate CPA Outreach.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 37,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "local-market-domination-dashboard",
+      "name": "Local Market Domination Dashboard",
+      "flash_ui_prompt": "Utility:** Helps partner pick a city/vertical and build local campaigns.  \n**Data/Auth:** No-auth planner. Public Google Sheet data later.  \n**Visual Style:** Neon city map × street-level business intelligence.\n\n```text\nCreate a static “Local Market Domination Dashboard” for Moonshine Capital partners. Visual style: neon city map, dark street-grid background, hot orange opportunity pins, electric blue local market cards. Help partners choose a city, target industries, referral partners, local groups, events, and campaign angles. Include campaign checklist, local SEO page ideas, and saved local market plans using localStorage. CTA: “Build My Local Plan.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 38,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "funding-product-routing-dashboard",
+      "name": "Funding Product Routing Dashboard",
+      "flash_ui_prompt": "Utility:** Helps partners route leads correctly.  \n**Data/Auth:** Static decision tool.  \n**Visual Style:** Airport control tower × fintech routing matrix.\n\n```text\nCreate a static “Funding Product Routing Dashboard” for Moonshine Capital affiliates. Visual style: airport control tower meets fintech routing matrix with radar lines, routing cards, glowing lanes, and status lights. Route leads to working capital, micro funding, equipment financing, real estate funding, ecommerce funding, business credit prep, or not-ready nurture based on inputs. Include explanation panels and copyable routing note. CTA: “Route This Lead.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 39,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "bank-link-drop-off-rescue-dashboard",
+      "name": "Bank Link Drop-Off Rescue Dashboard",
+      "flash_ui_prompt": "Utility:** Tackles bank-link abandonment.  \n**Data/Auth:** No-auth message generator.  \n**Visual Style:** Emergency response console × fintech recovery board.\n\n```text\nCreate a static “Bank Link Drop-Off Rescue Dashboard” for partners. Visual style: emergency response console with black panels, amber warnings, red drop-off alerts, and green rescue actions. Help partners follow up with applicants who started but did not connect bank data. Include status selector, message generator, education link, follow-up schedule, and saved rescue queue in localStorage. CTA: “Rescue This Application.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 40,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "document-collection-tracker",
+      "name": "Document Collection Tracker",
+      "flash_ui_prompt": "Utility:** Reduces ops chaos and missing documents.  \n**Data/Auth:** localStorage. Upgrade to Google Drive folder links later.  \n**Visual Style:** Digital evidence locker × funding doc vault.\n\n```text\nCreate a static “Document Collection Tracker” for Moonshine Capital affiliates. Visual style: digital evidence locker with dark vault panels, folder cards, green checkmarks, red missing-doc alerts, and document timeline. Track bank statements, ID, EIN, business docs, invoices, equipment quotes, leases, and tax docs. Add progress percentage and copyable missing-doc message. Save to localStorage. CTA: “Track Client Docs.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 41,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-training-progress-dashboard",
+      "name": "Partner Training Progress Dashboard",
+      "flash_ui_prompt": "Utility:** Lets partners see what training they’ve completed.  \n**Data/Auth:** localStorage. Upgrade to Firebase Auth later.  \n**Visual Style:** Elite academy dashboard × video game achievement map.\n\n```text\nCreate a static “Partner Training Progress Dashboard” for Moonshine Capital affiliates. Visual style: elite academy dashboard with dark panels, gold achievement badges, neon green completion bars, and mission-style lesson cards. Modules: Getting Started, Daily 5, Product Basics, Compliance, Referral Partners, Follow-Up, Deal Submission, CRM Discipline. Save completed lessons locally. CTA: “Continue Training.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 42,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "compliance-guardrail-dashboard",
+      "name": "Compliance Guardrail Dashboard",
+      "flash_ui_prompt": "Utility:** Prevents bad marketing claims.  \n**Data/Auth:** No-auth text checker.  \n**Visual Style:** Legal risk scanner × red/yellow/green control panel.\n\n```text\nCreate a static “Compliance Guardrail Dashboard” for funding partners. Visual style: legal risk scanner with black background, red/yellow/green claim indicators, warning sirens, and clean rewrite cards. Partners paste social posts, emails, or DMs. Highlight risky phrases like guaranteed approval, lowest rates, everyone qualifies, no docs needed. Suggest safer alternatives. Include copy button. CTA: “Scan My Copy.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 43,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-content-studio",
+      "name": "Partner Content Studio",
+      "flash_ui_prompt": "Utility:** Generates social posts, emails, DMs, newsletter snippets.  \n**Data/Auth:** localStorage templates; no AI API needed first.  \n**Visual Style:** Creator studio × fintech propaganda machine.\n\n```text\nCreate a static “Partner Content Studio” for Moonshine Capital affiliates. Visual style: creator studio meets fintech propaganda machine with brutalist cards, neon type, content preview panels, and platform tabs. Generate templated posts for Facebook, LinkedIn, email, SMS, and referral partner outreach based on niche, audience, and CTA. Save favorite copy locally. CTA: “Generate Partner Content.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 44,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "referral-source-heat-map",
+      "name": "Referral Source Heat Map",
+      "flash_ui_prompt": "Utility:** Helps partners see which source types generate better leads.  \n**Data/Auth:** localStorage; public Google Sheet later.  \n**Visual Style:** Heat-map analytics dashboard × sales intelligence lab.\n\n```text\nCreate a static “Referral Source Heat Map” dashboard for Moonshine Capital partners. Visual style: sales intelligence lab with heat-map tiles, dark analytics UI, neon gradients, and source scorecards. Track lead source categories: CPA, banker, Facebook group, LinkedIn, contractor, real estate agent, ecommerce seller, friend/family, event, cold outreach. Let users log leads and see source quality scores. Save with localStorage. CTA: “Log Lead Source.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 45,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-event-funnel-dashboard",
+      "name": "Partner Event Funnel Dashboard",
+      "flash_ui_prompt": "Utility:** Build local workshops, webinars, Cashflow nights, funding nights.  \n**Data/Auth:** No-auth planner + Tally RSVP link.  \n**Visual Style:** Underground event flyer × conversion dashboard.\n\n```text\nCreate a static “Partner Event Funnel Dashboard” for affiliates hosting local funding workshops, webinars, networking nights, Cashflow game nights, or referral partner events. Visual style: underground event flyer meets conversion dashboard with black, cream, signal orange, neon blue, ticket cards, RSVP widgets, and event timeline. Include event planner, promo copy generator, RSVP link area, follow-up checklist, and sponsor section. CTA: “Build My Event Funnel.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 46,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-resource-launcher",
+      "name": "Partner Resource Launcher",
+      "flash_ui_prompt": "Utility:** One dashboard for launching all assets.  \n**Data/Auth:** Static JSON resource cards.  \n**Visual Style:** App launcher × affiliate weapons locker.\n\n```text\nCreate a static “Partner Resource Launcher” for Moonshine Capital affiliates. Visual style: app launcher meets affiliate weapons locker with black metal panels, electric green cards, orange priority badges, and tile-based resource access. Cards include scripts, calculators, application links, training, document checklist, referral partner kit, content studio, compliance scanner, and support links. Use static JSON data for resources and JavaScript filtering. CTA: “Launch Resource.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 47,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "deal-submission-qa-dashboard",
+      "name": "Deal Submission QA Dashboard",
+      "flash_ui_prompt": "Utility:** Ensures lead is complete before submission.  \n**Data/Auth:** No-auth checklist.  \n**Visual Style:** Pre-flight checklist × aircraft maintenance board.\n\n```text\nCreate a static “Deal Submission QA Dashboard” for funding partners. Visual style: aircraft pre-flight checklist meets fintech deal desk with dark steel panels, safety-orange warnings, green clearance badges, and checklist sections. Verify lead contact info, business info, revenue, funding purpose, bank status, docs, consent, and product fit before submission. Output status: Cleared, Needs Cleanup, Do Not Submit Yet. CTA: “Run Pre-Flight Check.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 48,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-weekly-review-dashboard",
+      "name": "Partner Weekly Review Dashboard",
+      "flash_ui_prompt": "Utility:** Weekly self-review and coachable metrics.  \n**Data/Auth:** localStorage.  \n**Visual Style:** Founder war-room journal × KPI dashboard.\n\n```text\nCreate a static “Partner Weekly Review Dashboard” for Moonshine Capital affiliates. Visual style: founder war-room journal with dark leather textures, neon KPI cards, paper-note reflections, and tactical scorecards. Track weekly outreach, leads, apps, follow-ups, referral partner contacts, funded deals, lessons learned, and next week’s plan. Save weekly reviews in localStorage. CTA: “Review My Week.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 49,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-leaderboard-prototype",
+      "name": "Partner Leaderboard Prototype",
+      "flash_ui_prompt": "Utility:** Gamification for teams.  \n**Data/Auth:** Static/public Google Sheet later.  \n**Visual Style:** Esports leaderboard × sales floor scoreboard.\n\n```text\nCreate a static “Partner Leaderboard Prototype” for Moonshine Capital affiliate teams. Visual style: esports leaderboard meets sales floor scoreboard with black background, neon green rankings, red hot-streak badges, gold top-three cards, and animated score rows. Show sample rankings for Daily 5 streak, applications started, referrals generated, deals submitted, and funded volume. Include filter by team, week, and metric. CTA: “Log Activity.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 50,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-launch-kit-dashboard",
+      "name": "Partner Launch Kit Dashboard",
+      "flash_ui_prompt": "Utility:** White-label launch assets in one view.  \n**Data/Auth:** no-auth static; partner-specific cloned pages.  \n**Visual Style:** Luxury onboarding box × tactical startup kit.\n\n```text\nCreate a static “Partner Launch Kit Dashboard” for new Moonshine Capital affiliates. Visual style: luxury onboarding box meets tactical startup kit with black, cream, copper, electric blue accents, package cards, launch checklist, and asset download tiles. Include partner bio, application link, social post starter pack, email scripts, referral partner targets, Daily 5 tracker, training links, and first 7-day plan. CTA: “Start My Launch.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 51,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "white-label-broker-profile-admin",
+      "name": "White-Label Broker Profile Admin",
+      "flash_ui_prompt": "Utility:** Helps generate partner profile page content.  \n**Data/Auth:** localStorage form; export JSON/Markdown.  \n**Visual Style:** Personal brand builder × fintech dossier.\n\n```text\nCreate a static “White-Label Broker Profile Admin” dashboard. Visual style: personal brand builder meets fintech dossier with black/cream editorial panels, neon profile preview, and structured form cards. Partners enter name, bio, city, niches, target industries, referral links, booking link, services, and social links. Generate profile copy, JSON, and a preview card. Save locally. CTA: “Generate Broker Profile.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 52,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-crm-import-mapper",
+      "name": "Partner CRM Import Mapper",
+      "flash_ui_prompt": "Utility:** Maps fields from Tally/Sheets/Wix/HubSpot.  \n**Data/Auth:** Static utility; no auth.  \n**Visual Style:** Data lab × cyber spreadsheet.\n\n```text\nCreate a static “Partner CRM Import Mapper” for Moonshine Capital operators and affiliates. Visual style: cyber spreadsheet lab with black panels, cyan grid lines, neon mapping arrows, and clean field cards. Help users map form fields into CRM fields: name, email, phone, business, revenue, funding amount, product type, lead source, partner ID, status. Include mapping presets for Tally, Wix Forms, Google Sheets, HubSpot, and Notion. CTA: “Map My Fields.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 53,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "applicant-status-board",
+      "name": "Applicant Status Board",
+      "flash_ui_prompt": "Utility:** Manual status board for partner follow-up.  \n**Data/Auth:** localStorage; Firebase later.  \n**Visual Style:** Airport departures board × funding status tracker.\n\n```text\nCreate a static “Applicant Status Board” for funding partners tracking applicants manually. Visual style: airport departures board meets fintech pipeline tracker with dark panels, flipping status cards, electric blue accents, and urgency badges. Statuses: Application Started, Incomplete, Bank Link Needed, Docs Needed, Submitted, Under Review, Offer Available, Funded, Not Ready. Save applicants in localStorage. CTA: “Update Status.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 54,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-ai-prompt-console",
+      "name": "Partner AI Prompt Console",
+      "flash_ui_prompt": "Utility:** Library of prompts for affiliate tasks.  \n**Data/Auth:** static JSON prompt cards.  \n**Visual Style:** Hacker terminal × sales prompt armory.\n\n```text\nCreate a static “Partner AI Prompt Console” for Moonshine Capital affiliates. Visual style: hacker terminal meets sales prompt armory with black console background, neon command prompts, prompt cards, and copy buttons. Include prompts for lead qualification, follow-up emails, social posts, referral partner outreach, objection handling, CRM notes, funding explanations, and compliance-safe rewrites. Use static JSON and filtering. CTA: “Copy Prompt.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 55,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-tech-stack-dashboard",
+      "name": "Partner Tech Stack Dashboard",
+      "flash_ui_prompt": "Utility:** Shows recommended tools and setup steps.  \n**Data/Auth:** Static directory.  \n**Visual Style:** Neon software stack wall × operator setup checklist.\n\n```text\nCreate a static “Partner Tech Stack Dashboard” for Moonshine Capital affiliates. Visual style: neon software stack wall with black background, app cards, setup checklists, green installed badges, and orange “next step” alerts. Include recommended tools: Gmail, Google Sheets, Google Drive, Notion, Tally, Wix, HubSpot, Calendly/TidyCal, ChatGPT, Canva, Bitly, and partner links. CTA: “Set Up My Stack.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 56,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-support-ticket-lite",
+      "name": "Partner Support Ticket Lite",
+      "flash_ui_prompt": "Utility:** Lightweight help desk without real helpdesk software.  \n**Data/Auth:** No-auth static + Tally/Google Form submission.  \n**Visual Style:** Arcade ticket booth × support command center.\n\n```text\nCreate a static “Partner Support Ticket Lite” dashboard for Moonshine Capital affiliates. Visual style: arcade ticket booth meets support command center with bold ticket cards, dark UI, neon pink/blue accents, and priority badges. Include support categories: application issue, commission question, bank link issue, docs question, resource request, training help, tech issue. Use a form placeholder that can submit to Tally or Google Forms. CTA: “Submit Support Request.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 57,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-offer-stack-builder",
+      "name": "Partner Offer Stack Builder",
+      "flash_ui_prompt": "Utility:** Helps affiliate choose what to promote.  \n**Data/Auth:** No-auth recommender.  \n**Visual Style:** Card battler game × funding product menu.\n\n```text\nCreate a static “Partner Offer Stack Builder” for Moonshine Capital affiliates. Visual style: trading-card game meets funding product menu with bold product cards, rarity-style badges, vivid gradient backgrounds, and battle-deck layout. Let partners choose target audience and get a recommended offer stack: instant micro funding, working capital, equipment financing, real estate funding, business credit prep, ecommerce funding, startup options. CTA: “Build My Offer Stack.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 58,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-niche-campaign-dashboard",
+      "name": "Partner Niche Campaign Dashboard",
+      "flash_ui_prompt": "Utility:** Turn a niche into landing page + posts + emails.  \n**Data/Auth:** localStorage campaign generator.  \n**Visual Style:** Campaign bunker × neon marketing lab.\n\n```text\nCreate a static “Partner Niche Campaign Dashboard” for funding affiliates. Visual style: campaign bunker meets neon marketing lab with black walls, campaign cards, magenta/cyan highlights, launch checklist, and content output panels. Choose niche: contractors, truckers, ecommerce sellers, restaurants, med spas, gyms, consultants, real estate investors, gig workers. Generate campaign hook, CTA, social post, email, DM, lead magnet idea, and landing page section outline. Save campaigns locally. CTA: “Generate Campaign.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 59,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-qr-code-campaign-board",
+      "name": "Partner QR Code Campaign Board",
+      "flash_ui_prompt": "Utility:** Local flyers, business cards, events, networking.  \n**Data/Auth:** Static; QR generated by external placeholder or JS library later.  \n**Visual Style:** Street marketing wall × fintech QR lab.\n\n```text\nCreate a static “Partner QR Code Campaign Board” for Moonshine Capital affiliates. Visual style: street marketing wall meets fintech QR lab with poster mockups, black/yellow contrast, neon stickers, campaign cards, and QR preview placeholders. Help partners create QR campaign labels for events, flyers, business cards, referral partners, restaurants, contractor supply stores, and local meetups. Include UTM link builder fields and copyable campaign notes. CTA: “Build QR Campaign.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 60,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-deal-notes-summarizer-ui",
+      "name": "Partner Deal Notes Summarizer UI",
+      "flash_ui_prompt": "Utility:** Paste messy notes, generate clean CRM summary template.  \n**Data/Auth:** No-auth template transformer. Later AI API via Vercel route.  \n**Visual Style:** Detective notebook × CRM cleanup cockpit.\n\n```text\nCreate a static “Partner Deal Notes Summarizer” UI for funding affiliates. Visual style: detective notebook meets CRM cleanup cockpit with dark paper textures, neon highlights, structured output panels, and copy buttons. Users paste messy notes from a call. The prototype organizes them into contact info, business profile, funding need, documents, objections, next step, and CRM note format. Use simple client-side parsing placeholders and template output. CTA: “Clean Up Notes.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 61,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-follow-up-calendar",
+      "name": "Partner Follow-Up Calendar",
+      "flash_ui_prompt": "Utility:** Manual follow-up scheduler.  \n**Data/Auth:** localStorage. Google Calendar link optional.  \n**Visual Style:** Tactical calendar × sales pursuit board.\n\n```text\nCreate a static “Partner Follow-Up Calendar” for Moonshine Capital affiliates. Visual style: tactical calendar meets sales pursuit board with dark panels, orange urgency cards, green completed badges, and weekly timeline. Partners add leads, follow-up dates, channel, message type, and notes. Display overdue, today, this week, and future follow-ups. Save in localStorage. Include copyable reminders and calendar-link placeholder. CTA: “Schedule Follow-Up.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 62,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-onboarding-wizard",
+      "name": "Partner Onboarding Wizard",
+      "flash_ui_prompt": "Utility:** Step-by-step setup experience.  \n**Data/Auth:** localStorage first; Clerk later if needed.  \n**Visual Style:** Neon onboarding tunnel × startup launch sequence.\n\n```text\nCreate a static “Partner Onboarding Wizard” for new Moonshine Capital affiliates. Visual style: neon launch sequence with dark gradient background, progress tunnel, animated step cards, green completion pulses, and bold CTAs. Steps: create partner profile, save main links, join group, review products, complete Daily 5 setup, generate first campaign, contact first referral partner, submit first lead. Save progress with localStorage. CTA: “Begin Onboarding.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 63,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-asset-request-dashboard",
+      "name": "Partner Asset Request Dashboard",
+      "flash_ui_prompt": "Utility:** Request custom landing page, QR flyer, script, image, profile page.  \n**Data/Auth:** Static + Tally form submission.  \n**Visual Style:** Creative agency request board × partner ops portal.\n\n```text\nCreate a static “Partner Asset Request Dashboard” for Moonshine Capital affiliates. Visual style: creative agency request board with black/cream panels, hot orange request cards, cyan workflow tags, and polished portal UI. Partners can request assets: landing page, broker profile, QR flyer, social post pack, email script, referral partner page, local SEO page, event flyer. Include request form placeholder for Tally/Google Forms and request status mockup. CTA: “Request Asset.”\n```",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 64,
+      "source_date": "2026-05-28 14:31:42"
+    },
+    {
+      "id": "partner-public-mini-portal",
+      "name": "Partner Public Mini-Portal",
+      "flash_ui_prompt": "Utility:** Public-facing dashboard for each partner’s prospects.  \n**Data/Auth:** No auth; cloned per partner.  \n**Visual Style:** Public fintech concierge hub × luxury profile page.\n\n```text\nCreate a static “Partner Public Mini-Portal” for a Moonshine Capital affiliate. Visual style: public fintech concierge hub with black glass, vivid green CTA cards, cream editorial blocks, and partner profile section. It should be a public page where prospects can start funding review, book a call, use a readiness scorecard, get document checklist, read FAQ, and contact the partner. Include placeholders for partner name, city, phone, email, application link, and booking link. CTA: “Start Funding Review.”\n```\n\n---\n\n## My recommended first 10 builds\n\n| Rank | Dashboard | Why it should come first |\n|---:|---|---|\n| 1 | **Partner Mission Control Dashboard** | Central hub for everything |\n| 2 | **Daily 5 Execution Dashboard** | Builds daily behavior |\n| 3 | **Partner Pipeline Kanban** | CRM-lite without SaaS overhead |\n| 4 | **Partner Link Vault** | Immediate utility for every affiliate |\n| 5 | **Partner Resource Launcher** | Makes all assets usable |\n| 6 | **Funding Product Routing Dashboard** | Improves lead quality |\n| 7 | **Document Collection Tracker** | Reduces ops friction |\n| 8 | **Partner Content Studio** | Helps partners market today |\n| 9 | **Referral Partner Prospecting Dashboard** | Builds warmer lead channels |\n| 10 | **Deal Submission QA Dashboard** | Keeps messy deals out of review |\n\n## Best architecture for the first version\n\nFor FLASH-UI prototypes:\n\n```text\nStatic HTML + Tailwind + vanilla JS\n↓\nlocalStorage for personal dashboard data\n↓\nStatic JSON for resource cards / templates / product data\n↓\nTally or Google Forms for submissions\n↓\nGoogle Sheets or Notion as lightweight backend\n↓\nVercel static hosting\n```\n\nThen only upgrade when pain demands it:\n\n```text\nClerk = partner login\nSupabase = partner records, leads, tasks, pipeline\nFirebase = quick auth + Firestore dashboard data\nWix Members = easiest bridge into Moonshine frontend\nVercel API routes = secure webhooks/API keys\n```\n\nDo **not** start with a full SaaS backend unless the dashboard proves partners will actually use it. Start with static tools that slap, ship fast, and create behavior. Then put the database behind the winners.",
+      "source_group": "Partner Dashboard Systems FLASH-UI Prompts",
+      "source_order": 65,
+      "source_date": "2026-05-28 14:31:42"
+    }
+  ],
+  "_source_dates": [
+    "2026-05-15 05:01:38",
+    "2026-05-28 14:31:42"
+  ]
+}
