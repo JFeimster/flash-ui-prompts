@@ -1,4 +1,4 @@
-const DATA_PATH = '../data/flash-ui-prompts/master-flash-ui-prompts.json';
+const DATA_PATH = 'data/master-flash-ui-prompts.json';
 const fallbackData = {count:0, groups:[], items:[]};
 const state = {items: [], groups: [], categories: [], brands: [], styles: []};
 const els = {};
